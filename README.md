@@ -9,7 +9,7 @@ ADDM (Automatic Database Diagnostics Monitor) - это модуль самоди
 * `addm_and_awr_report_hour.sql` - за указанный промежуток времени.
 
 ## Порядок использования 
-1. Cкачать последнюю версию скриптов
+1. Cкачать [последнюю версию скриптов](https://github.com/ParusPmo/addm-awr-reports/releases/latest)
 2. Запустить SQL*Plus, выполнить соединение с БД под пользователем __с правами SYSDBA__
 3. Выполнить необходимый скрипт.
 
